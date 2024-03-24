@@ -8,7 +8,7 @@ using SeleniumExtras.WaitHelpers;
 
 
 
-namespace AceOnlineShoesDotNetUnitTest
+namespace AceOnlineShoesDotNetUnitTest.Misc
 {
     [TestClass]
     public class UnitTest1
